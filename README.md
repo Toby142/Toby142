@@ -8,5 +8,5 @@ Hey there👋, My name is Tobias,<br>I'm a 17 year old student from The Netherla
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Toby142&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Toby142&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby142&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
