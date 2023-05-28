@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 
 Hey there👋, My name is Tobias,<br>I'm a 17 year old student from The Netherlands🇳🇱<br>Currently, I'm studying at ROC-Tilburg🏢, where I am learning to become a software developer👨‍💻.
 
