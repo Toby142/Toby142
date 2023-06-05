@@ -1,6 +1,6 @@
 # 👨‍💻 About Me:
 
-Hey there👋, My name is Tobias,<br>I'm a 18 year old student from The Netherlands🇳🇱<br>Currently, I'm studying at ROC-Tilburg🏢, where I am learning to become a software developer👨‍💻.
+Hey there! 👋 I'm Tobias, an 18-year-old full-stack developer from The Netherlands 🇳🇱. I'm currently studying at ROC-Tilburg 🏢 to further enhance my skills and expertise in software development 👨‍💻.
 
 # 💻 Tech Stack:
 
