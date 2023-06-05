@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# 💻 About Me:
 
 Hey there! 👋 I'm Tobias, an 18-year-old full-stack developer from The Netherlands 🇳🇱. I'm currently studying at ROC-Tilburg 🏢 to further enhance my skills and expertise in software development 👨‍💻.
 
